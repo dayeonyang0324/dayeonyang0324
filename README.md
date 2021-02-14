@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=dayeon's%20git&fontSize=90&fontColor=light)
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=dayeon's&fontSize=90&fontColor=d6ace6)
 
 
 
