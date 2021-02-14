@@ -1,9 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=dayeon&fontSize=90&fontColor=d6ace6)
 
 
-<center>
-  
-  ### Hi there 👋
+<p align='center> ### Hi there 👋
   
   Hi, I'm dayeon.
   
@@ -16,7 +14,9 @@
 
   [![dayeonyang0324's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayeonyang0324&count_private=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
-</center>
+  
+ 
+</p>
 
 
 
