@@ -1,9 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=200&section=header&text=dayeon's%20git&fontSize=90)
+
 
 
 ### Hi there 👋
 
 [![dayeonyang0324's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayeonyang0324&count_private=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 ### 📚Stack
