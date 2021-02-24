@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=dayeon&fontSize=90&fontColor=d6ace6)
+![header](https://capsule-render.vercel.app/api?type=shark&color=9ACB34&height=300&section=header&text=dayeon&fontSize=90&fontColor=d6ace6)
 
 
 ### Hi there 👋
