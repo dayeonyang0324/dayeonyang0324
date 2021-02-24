@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=F8E2CF&height=300&section=header&text=dayeon&fontSize=90&fontColor=d6ace6)
 
 <h3 align = 'center'> Hi there 👋</h3>
-<p align = 'center'> [![dayeonyang0324's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayeonyang0324&count_private=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)  </p>
+<p align = 'center'> [![dayeonyang0324's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayeonyang0324&count_private=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats) </p>
   
   
 <h3 align = 'center'>📚Stack📚</h3>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+<p align = 'center'> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" /></p>
 
 
 
