@@ -2,7 +2,7 @@
 
 <h3 align = 'center'> Hi there 👋</h3>
 <p align = 'center'>
-[![dayeonyang0324's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayeonyang0324&count_private=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)  </p>
+  [![dayeonyang0324's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayeonyang0324&count_private=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)  </p>
   
   
 <h3 align = 'center'>📚Stack📚</h3>
