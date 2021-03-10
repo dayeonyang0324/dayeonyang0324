@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=F8E2CF&height=300&section=header&text=dayeon&fontSize=90&fontColor=d6ace6)
+![header](https://capsule-render.vercel.app/api?type=wave&color=F8E2CF&height=300&section=header&text=Dayeon&fontSize=90&fontColor=black)
 
 <h3 align = 'center'> Hi there 👋</h3>
 
